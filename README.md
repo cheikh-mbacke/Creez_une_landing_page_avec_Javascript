@@ -15,3 +15,5 @@ Au cours de ce projet, j'ai pu approfondir ma compréhension de l'interaction en
 - **Visual Studio Code**: Employé pour l'écriture et la gestion du code source.
 - **GitHub**: Utilisé pour le versionnement du projet et la gestion des modifications.
 
+## Démo
+Pour voir le site en live, cliquez [ici](https://creez-une-landing-page-avec-javascript.onrender.com/)
